@@ -1,6 +1,6 @@
 # Hello 👋
 
-Hey there, I'm **Ajin Kabeer**! I am a _Software Engineer_ passionate about building next generation web and mobile applications. I deeply care about **accessibility** and **performance** when building products.
+Hey there, I'm **Ajin Kabeer**! I am a _Software Developer passionate about building next generation web and mobile applications.
 
 I absolutely love the open-source community on GitHub and I am an avid contributor to _Taskcluster_, a CI/CD framework of Mozilla.
 
